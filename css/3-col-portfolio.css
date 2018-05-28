@@ -6,6 +6,19 @@
 
 body {
   padding-top: 54px;
+ 
+}
+.row{
+  background-color:black;
+}
+.card-body{
+  background-color: black;
+}
+.card-title{
+color:green;
+}
+.card-text{
+  color:white;
 }
 
 @media (min-width: 992px) {
