@@ -13,10 +13,10 @@ body {
 }
 .card-body{
   background-color: black;
+  border-color:black;
+  
 }
-.card-title{
-color:green;
-}
+
 .card-text{
   color:white;
 }
